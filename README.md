@@ -15,7 +15,7 @@ Hello! My name is Narendra Yadav. I am a passionate and motivated Computer Scien
 ---
 [![](https://visitcount.itsvg.in/api?id=Imnarendra18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-app/?user=Imnarendra18&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imnarendra18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
