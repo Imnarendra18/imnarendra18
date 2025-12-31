@@ -2,7 +2,7 @@
 Hello! My name is Narendra Yadav. I am a passionate and motivated Computer Science student with a strong interest in software development and web technologies. I enjoy learning new programming languages and building practical projects that solve real-world problems.<br><br>I have hands-on experience with Java, J2EE, HTML, CSS, Bootstrap, PHP, Python, NumPy, Pandas, and React. I am also exploring AI/ML concepts and modern web frameworks to enhance my technical skills.<br><br>I believe in continuous learning, teamwork, and writing clean, efficient code. My goal is to grow as a full-stack developer and contribute to innovative software solutions.
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/imnarendra18)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__imnarendra.18)
