@@ -40,5 +40,21 @@ I am building my foundational expertise in full-stack development, backend techn
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/narendra-yadav) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NarendraYadav) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/narendrayadav) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/narendra_yadav) 
 
+
+  <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"
+    alt="footer"
+  />
+</p>
+
+<h3 align="center">👨‍💻 Narendra Yadav</h3>
+
+<p align="center">
+  <b>Developer • Learner • Builder</b><br/>
+  <i>Code with logic. Build with purpose. 🚀</i>
+</p>
+
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
