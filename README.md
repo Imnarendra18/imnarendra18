@@ -42,7 +42,7 @@ I am building my foundational expertise in full-stack development, backend techn
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:6b7280&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:7f1d1d,100:991b1b&height=140&section=footer"
     alt="footer"
   />
 </p>
