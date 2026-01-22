@@ -41,10 +41,26 @@ I am building my foundational expertise in full-stack development, backend techn
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/narendra-yadav) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NarendraYadav) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/narendrayadav) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/narendra_yadav) 
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:7f1d1d,100:991b1b&height=140&section=footer"
-    alt="footer"
-  />
+<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#450a0a">
+        <animate attributeName="stop-color"
+                 values="#450a0a;#7f1d1d;#991b1b;#450a0a"
+                 dur="1s"
+                 repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#991b1b">
+        <animate attributeName="stop-color"
+                 values="#991b1b;#450a0a;#7f1d1d;#991b1b"
+                 dur="1s"
+                 repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <path d="M0 60 Q 300 100 600 60 T 1200 60 V 140 H 0 Z" fill="url(#grad)" />
+</svg>
 </p>
 
 <h3 align="center">👨‍💻 Narendra Yadav</h3>
@@ -53,6 +69,7 @@ I am building my foundational expertise in full-stack development, backend techn
   <b>Developer • Learner • Builder</b><br/>
   <i>Code with logic. Build with purpose. 🚀</i>
 </p>
+
 
 
 
